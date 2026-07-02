@@ -105,7 +105,3 @@ Asynchronous programming concepts
 Database integration
 
 
-
----
-
-If you want, I can also make it **even more impressive for resume/GitHub (ATS-friendly + recruiter level)** or help you write a **30-second interview explanation** 👍
